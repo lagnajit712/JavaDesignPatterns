@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../JavaTraining/Workspace/Training/Training.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../JavaTraining/Workspace/Training/src/com/designpatterns/java/BuilderPattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/creational/builder/BuilderPattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/creational/builder/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/adapter/AdapterPatternDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/adapter/BankCustomer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/adapter/BankDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/adapter/CreditCard.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/adapter/adapter.plantuml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/bridge/BridgePatternDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/bridge/JavaQuestions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/bridge/Question.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/bridge/QuestionFormat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/bridge/QuestionManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/bridge/bridge.plantuml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/composite/Accountant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/composite/BankManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/composite/Cashier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/composite/CompositePatternDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/composite/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/composite/ccountant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/composite/composite.plantuml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/Brocolli.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/Cheese.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/Chicken.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/FetaCheese.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/GreenOlives.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/Ham.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/Meat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/Pizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/PizzaDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/RedOnions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/RomaTomatoes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/SimplyNonVegPizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/SimplyVegPizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/Spinach.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/decorator/TestDecoratorPattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/facade/BlackBerry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/facade/Blackberry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/facade/FacadePatternClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/facade/Iphone.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/facade/MobileShop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/facade/Samsung.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/facade/ShopKeeper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/flyweight/BrushSize.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/flyweight/MediumPen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/flyweight/PaintBrushClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/flyweight/Pen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/flyweight/PenFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/flyweight/ThickPen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/designpatterns/java/structural/flyweight/ThinPen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/str/StrPrograms.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/java/BuilderPattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/component-tests/src/test/java/com/wirelesscar/vul/tests/publish/PublishTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/component-tests/src/test/java/com/wirelesscar/vul/util/AbstractTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/component-tests/src/test/java/com/wirelesscar/vul/util/QueueProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/batch/converter/EngineTorqueHistogramConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/batch/converter/HistogramsDeltaContentOutputConverter_1_0.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/batch/manager/BatchManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/batch/repository/BatchRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/batch/repository/BatchRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/batch/thread/PublishWorkerThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/batch/thread/RawToRefinedWorkerThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/db/entity/BatchParameter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/db/entity/BatchPartition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/db/entity/VehicleDimension.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/incoming/jms/EnrichedVehicleStatusInputConverter_4_0.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/reports/converter/TrendRequestConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/reports/converter/VehicleUtilizationBaseRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/vehicle-utilization-lov-server/impl/src/main/java/com/wirelesscar/vul/reports/converter/ZonedRangeRequestConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp2/vehicle-utilization-server/deployable-assembly/src/main/content/jar/default/env.properties.template">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp2/vehicle-utilization-server/vehicle-utilization-refined/src/main/java/com/wirelesscar/vehicleutilization/refined/infrastructure/converters/VehicleUtilizationBaseRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp2/vehicle-utilization-server/vehicle-utilization-server-app/src/main/java/com/wirelesscar/vehicleutilization/conf/WebAppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vehicle-utilization-external-gateway-server/app/src/main/java/com/volvo/tisp/vueg/domain/ExternalAPIManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vehicle-utilization-external-gateway-server/app/src/main/java/com/volvo/tisp/vueg/service/IVuExternalScoresService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vehicle-utilization-external-gateway-server/app/src/main/java/com/volvo/tisp/vueg/service/VuExternalScoresServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vehicle-utilization-lov-server/deployable-assembly/src/main/content/jar/default/env.properties.template">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

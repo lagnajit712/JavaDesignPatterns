@@ -1,0 +1,225 @@
+@startuml
+
+title __DECORATOR's Class Diagram__\n
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.Broccoli {
+            + Broccoli()
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.Cheese {
+            + Cheese()
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.Chicken {
+            + Chicken()
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.FetaCheese {
+            + FetaCheese()
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.GreenOlives {
+            + GreenOlives()
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.Ham {
+            + Ham()
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.Meat {
+            + Meat()
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        interface com.designpatterns.java.structural.decorator.Pizza {
+            {abstract} + getDesc()
+            {abstract} + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        abstract class com.designpatterns.java.structural.decorator.PizzaDecorator {
+            + getDesc()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.RedOnions {
+            + RedOnions()
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.RomaTomatoes {
+            + RomaTomatoes()
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.SimplyNonVegPizza {
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.SimplyVegPizza {
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.Spinach {
+            + Spinach()
+            + getDesc()
+            + getPrice()
+        }
+      }
+    }
+  }
+  
+
+  namespace  {
+    namespace om.designpatterns.java {
+      namespace structural.decorator {
+        class com.designpatterns.java.structural.decorator.TestDecoratorPattern {
+            {static} + main()
+        }
+      }
+    }
+  }
+  
+
+  com.designpatterns.java.structural.decorator.Broccoli -up-|> com.designpatterns.java.structural.decorator.PizzaDecorator
+  com.designpatterns.java.structural.decorator.Broccoli o-- com.designpatterns.java.structural.decorator.Pizza : pizza
+  com.designpatterns.java.structural.decorator.Cheese -up-|> com.designpatterns.java.structural.decorator.PizzaDecorator
+  com.designpatterns.java.structural.decorator.Cheese o-- com.designpatterns.java.structural.decorator.Pizza : pizza
+  com.designpatterns.java.structural.decorator.Chicken -up-|> com.designpatterns.java.structural.decorator.PizzaDecorator
+  com.designpatterns.java.structural.decorator.Chicken o-- com.designpatterns.java.structural.decorator.Pizza : pizza
+  com.designpatterns.java.structural.decorator.FetaCheese -up-|> com.designpatterns.java.structural.decorator.PizzaDecorator
+  com.designpatterns.java.structural.decorator.FetaCheese o-- com.designpatterns.java.structural.decorator.Pizza : pizza
+  com.designpatterns.java.structural.decorator.GreenOlives -up-|> com.designpatterns.java.structural.decorator.PizzaDecorator
+  com.designpatterns.java.structural.decorator.GreenOlives o-- com.designpatterns.java.structural.decorator.Pizza : pizza
+  com.designpatterns.java.structural.decorator.Ham -up-|> com.designpatterns.java.structural.decorator.PizzaDecorator
+  com.designpatterns.java.structural.decorator.Ham o-- com.designpatterns.java.structural.decorator.Pizza : pizza
+  com.designpatterns.java.structural.decorator.Meat -up-|> com.designpatterns.java.structural.decorator.PizzaDecorator
+  com.designpatterns.java.structural.decorator.Meat o-- com.designpatterns.java.structural.decorator.Pizza : pizza
+  com.designpatterns.java.structural.decorator.PizzaDecorator .up.|> com.designpatterns.java.structural.decorator.Pizza
+  com.designpatterns.java.structural.decorator.RedOnions -up-|> com.designpatterns.java.structural.decorator.PizzaDecorator
+  com.designpatterns.java.structural.decorator.RedOnions o-- com.designpatterns.java.structural.decorator.Pizza : pizza
+  com.designpatterns.java.structural.decorator.RomaTomatoes -up-|> com.designpatterns.java.structural.decorator.PizzaDecorator
+  com.designpatterns.java.structural.decorator.RomaTomatoes o-- com.designpatterns.java.structural.decorator.Pizza : pizza
+  com.designpatterns.java.structural.decorator.SimplyNonVegPizza .up.|> com.designpatterns.java.structural.decorator.Pizza
+  com.designpatterns.java.structural.decorator.SimplyVegPizza .up.|> com.designpatterns.java.structural.decorator.Pizza
+  com.designpatterns.java.structural.decorator.Spinach -up-|> com.designpatterns.java.structural.decorator.PizzaDecorator
+  com.designpatterns.java.structural.decorator.Spinach o-- com.designpatterns.java.structural.decorator.Pizza : pizza
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml
