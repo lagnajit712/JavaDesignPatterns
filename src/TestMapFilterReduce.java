@@ -11,7 +11,7 @@ public class TestMapFilterReduce {
         new Person("Name2",55));
     list.stream().map(Person::getAge).peek(System.out::println).filter(age->age>20).forEach(System.out::println);
     System.out.println("Total age "+list.stream().map(Person::getAge).reduce((v1, v2) -> v1+v2));
-    list.stream().reduce(0,(partialAgeResult,p2)->partialAgeResult + p2.getAge(), Integer::sum);
+    System.out.println("Total age is "+list.stream().reduce(0,(partialAgeResult,p2)->partialAgeResult + p2.getAge(), Integer::sum));
 
   }
 }

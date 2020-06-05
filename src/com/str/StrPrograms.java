@@ -5,7 +5,7 @@ public class StrPrograms {
 
     String s="Hello";
     System.out.println("Lenght of string "+s+" is "+length(s));
-    System.out.println("Reverse of string "+s+" is "+recursiveMethod(s));
+    System.out.println("Reverse of string "+s+" is "+reverse(s));
     isAnagram("Mother In Law", "Hitler Woman");
     reverseEachWordOfString("Java Concept Of The Day");
     StringPermutation("JSP");
@@ -19,14 +19,14 @@ public class StrPrograms {
     }
   }
 
-  public static  String recursiveMethod(String str)
+  public static  String reverse(String str)
   {
     if ((null == str) || (str.length() <= 1))
     {
       return str;
     }
 
-    return recursiveMethod(str.substring(1)) + str.charAt(0);
+    return reverse(str.substring(1)) + str.charAt(0);
   }
   public static void isAnagram(String s1, String s2)
   {

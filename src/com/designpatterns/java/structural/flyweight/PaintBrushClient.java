@@ -15,7 +15,6 @@ public class PaintBrushClient
 
     System.out.println(yellowThinPen1.hashCode());
     System.out.println(yellowThinPen2.hashCode());
-
     System.out.println(blueThinPen.hashCode());
   }
 }
