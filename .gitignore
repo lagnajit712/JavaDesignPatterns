@@ -7,9 +7,11 @@
 .settings/
 .vagrant/
 *.iml
+.idea/
 nb-configuration.xml
 target/
 out/
+/out/
 src/site/asciidoc/api-docs/generated/
 src/site/asciidoc/api-docs/rest-api-index.adoc
 gui/src/main/resources/assets/bundle.js
